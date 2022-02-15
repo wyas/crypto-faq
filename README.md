@@ -1,2 +1,2 @@
-# crypto-faq
-The Definitive Guide to Crypto
+# The Universal Crypto FAQ
+## Your Definitive Guide to Crypto Questions and Concerns
